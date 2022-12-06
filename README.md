@@ -1,11 +1,5 @@
 ### Hi there 👋
 
-Here are some ideas to get you started:
-
-- Computer Science Studente at Federal University of Sergipe
-- Currently Leaning Android Development
-- I’m looking to collaborate on Open Source and Free Software Projects
-
 <div align="center" style="display: inline_block">
   <a href="https://github.com/lisboaigor">
   <img height="180em" width="50%" src="https://github-readme-stats.vercel.app/api?username=lisboaigor&show_icons=true&t&include_all_commits=true&count_private=true"/>
